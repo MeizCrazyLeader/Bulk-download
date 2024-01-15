@@ -26,7 +26,7 @@ START_BUTTONS=[
         InlineKeyboardButton("Source", url="https://github.com"),
         InlineKeyboardButton("Channel", url="https://t.me/Students_Helpers"),
     ],
-    [InlineKeyboardButton("Author", url="https://t.me/MasterContact_bot")],
+    [InlineKeyboardButton("Master", url="https://t.me/MasterContact_bot")],
 ]
 
 CB_BUTTONS=[
