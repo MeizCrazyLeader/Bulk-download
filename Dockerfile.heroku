@@ -1,1 +1,1 @@
-FROM xgorn/bulkloader:latest
+FROM MeizCrazyLeader/Bulk-download:latest
